@@ -1,0 +1,5 @@
+delay,method,args
+2000,start,
+500,buy,
+500,buy,
+1500,sell,

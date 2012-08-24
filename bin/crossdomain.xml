@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<cross-domain-policy>
+<allow-access-from domain="www.finegamedesign.com" />
+<allow-access-from domain="finegamedesign.com" />
+<allow-access-from domain="www.google.com" />
+<allow-access-from domain="google.com" />
+<allow-access-from domain="www.kongregate.com" />
+<allow-access-from domain="kongregate.com" />
+</cross-domain-policy>
